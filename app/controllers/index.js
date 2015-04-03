@@ -20,7 +20,7 @@ tracker.setUser({
 });
 
 function init() {
-	
+	alert ("this is just a testing app");
 }
 
 function doClickLogin(e) {
