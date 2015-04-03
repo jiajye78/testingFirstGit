@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container">
+		<View width="400" height="Ti.UI.SIZE" layout="vertical">
+			<!-- <Label id="label" onClick="doClick">Hello, World</Label> -->
+			<Button id="btnClickLogin" onClick="doClickLogin" title="Track Login" height="100" width="300"></Button>
+			<Button id="btnClickEvent" onClick="doClickEvent" title="Track Event" height="100" width="300"></Button>
+			<Button id="btnClickCustom" onClick="doClickCustom" title="Track Custom" height="100" width="300"></Button>
+			<Button id="btnClickScreen" onClick="doClickScreen" title="Trach Screen" height="100" width="300"></Button>
+			<Button id="btnDecrypted" onClick="doDecrypted" title="Decrypt String" height="100" width="300"></Button>
+		</View>
+	</Window>
+</Alloy>
