@@ -9,4 +9,6 @@
 	"os:mobileweb": {},
 	"dependencies": {},
 	"testingconflicy": {}
+	"testing": {
+	}
 }
