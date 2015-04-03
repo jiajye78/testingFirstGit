@@ -21,6 +21,7 @@ tracker.setUser({
 
 function init() {
 	alert ("this is just a testing app");
+	alert ("hahaha second for you to pull request");
 }
 
 function doClickLogin(e) {
